@@ -1,0 +1,41 @@
+[
+    {
+        "DisplayName": "Game Pack",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "Title",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "Title",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "RoyalRoulette@weerwolf",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Config File",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "dedicated_cfg",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "dedicated_cfg",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "dedicated_cfg.default.txt",
+        "EnumValues": {}
+    },
+    {
+        "DisplayName": "Match Settings",
+        "Category": "",
+        "Description": "",
+        "Keywords": "",
+        "FieldName": "game_settings",
+        "InputType": "text",
+        "IsFlagArgument": false,
+        "ParamFieldName": "game_settings",
+        "IncludeInCommandLine": true,
+        "DefaultValue": "MatchSettings/matchsettings.txt",
+        "EnumValues": {}
+    }
+]
