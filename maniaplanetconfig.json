@@ -1,7 +1,7 @@
 [
     {
         "DisplayName": "Game Pack",
-        "Category": "",
+        "Category": "StartUp Settings",
         "Description": "",
         "Keywords": "",
         "FieldName": "Title",
@@ -14,7 +14,7 @@
     },
     {
         "DisplayName": "Config File",
-        "Category": "",
+        "Category": "StartUp Settings",
         "Description": "",
         "Keywords": "",
         "FieldName": "dedicated_cfg",
@@ -27,7 +27,7 @@
     },
     {
         "DisplayName": "Match Settings",
-        "Category": "",
+        "Category": "StartUp Settings",
         "Description": "",
         "Keywords": "",
         "FieldName": "game_settings",
