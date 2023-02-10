@@ -1,4 +1,4 @@
-App.AdminMethod=PinballWizard
+App.AdminMethod=STDIO
 App.ApplicationPort1=2350
 App.ApplicationPort2=3450
 App.ApplicationPort3=5000
