@@ -9,7 +9,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "Title",
         "IncludeInCommandLine": true,
-        "DefaultValue": "RoyalRoulette@weerwolf",
+        "DefaultValue": "TMStadium@nadeo",
         "EnumValues": {}
     },
     {
@@ -35,7 +35,7 @@
         "IsFlagArgument": false,
         "ParamFieldName": "game_settings",
         "IncludeInCommandLine": true,
-        "DefaultValue": "MatchSettings/matchsettings.txt",
+        "DefaultValue": "MatchSettings/MatchSettingsFile.txt",
         "EnumValues": {}
     }
 ]
