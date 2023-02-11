@@ -94,6 +94,20 @@
         "EnumValues":{}
     },
     {
+        "DisplayName":"Gameserver Title Pack",
+        "Category":"ManiaPlanet Server Settings",
+        "Description":"Sets your desired titlepack to run; e.g. TMStadium@nadeo",
+        "Keywords":"master,server,title,pack",
+        "FieldName":"title",
+        "InputType":"text",
+        "IsFlagArgument":false,
+        "ParamFieldName":"/dedicated/system_config/title",
+        "IncludeInCommandLine":false,
+        "SkipIfEmpty":true,
+        "DefaultValue":"TMStadium@nadeo",
+        "EnumValues":{}
+    },
+    {
         "DisplayName":"LAN Server",
         "Category":"ManiaPlanet Server Settings",
         "Description":"If enabled, the server will be started as a LAN server (not an internet server), even if Master Server Account Login and Password are set",
