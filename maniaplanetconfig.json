@@ -80,6 +80,20 @@
         "EnumValues":{}
     },
     {
+        "DisplayName":"Master Server Account Validation Key",
+        "Category":"ManiaPlanet Server Settings",
+        "Description":"Sets [your master server validation key](Optional, but required for the server to handle planets",
+        "Keywords":"master,server,account,validation,key",
+        "FieldName":"masterserver_account_validation_key",
+        "InputType":"text",
+        "IsFlagArgument":false,
+        "ParamFieldName":"validation_key",
+        "IncludeInCommandLine":false,
+        "SkipIfEmpty":true,
+        "DefaultValue":"",
+        "EnumValues":{}
+    },
+    {
         "DisplayName":"LAN Server",
         "Category":"ManiaPlanet Server Settings",
         "Description":"If enabled, the server will be started as a LAN server (not an internet server), even if Master Server Account Login and Password are set",
