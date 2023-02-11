@@ -119,7 +119,7 @@
         "IsFlagArgument":false,
         "ParamFieldName":"/dedicated/server_options/name",
         "IncludeInCommandLine":false,
-        "DefaultValue":"AMP Powered Trackmania Server",
+        "DefaultValue":"AMP Powered ManiaPlanet Server",
         "EnumValues":{}
     },
     {
