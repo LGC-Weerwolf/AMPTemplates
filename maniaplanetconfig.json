@@ -68,7 +68,7 @@
     {
         "DisplayName":"Master Server Account Password",
         "Category":"ManiaPlanet Server Settings",
-        "Description":"Sets [your master server account password](https://players.trackmania.com/server/dedicated). Required for the server to be started as an internet server",
+        "Description":"Sets [your master server account password](https://www.maniaplanet.com/account/dedicated-servers). Required for the server to be started as an internet server",
         "Keywords":"master,server,account,password",
         "FieldName":"masterserver_account_password",
         "InputType":"password",
