@@ -87,7 +87,7 @@
         "FieldName":"masterserver_account_validation_key",
         "InputType":"text",
         "IsFlagArgument":false,
-        "ParamFieldName":"validation_key",
+        "ParamFieldName":"/dedicated/masterserver_account/validation_key",
         "IncludeInCommandLine":false,
         "SkipIfEmpty":true,
         "DefaultValue":"",
